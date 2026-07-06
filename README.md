@@ -54,13 +54,19 @@
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE: count_private=true only works if you self-host these two cards
+  with a Personal Access Token (repo scope). See the setup guide at the
+  bottom of this file, then replace YOUR-VERCEL-APP with your own URL.
+-->
+
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=alimustafa905000-rgb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=alimustafa905000-rgb&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=alimustafa905000-rgb&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alimustafa905000-rgb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=alimustafa905000-rgb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -90,5 +96,4 @@
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to connect and collaborate! 🚀</i></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
